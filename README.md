@@ -15,21 +15,20 @@ If you are presenting a paper you can email revisions anytime (up to June 5th) t
 | Start | End  | Topic                           | Presenter                       | Notes |
 |-------|------|---------------------------------|---------------------------------|-------|
 | 9     | 9:30 | Introductions and Overview      | Andrea, Katrina, Peter, and Nic |       |
-| 9:30  | 11   | Paper presentations             |                                 |       |
-| 11:30 | 12   | Open Discussion                 | Peter                           |       |
-| 12    | 1    | Lunch (around Illini Union)     |                                 |       |
-| 1     | 2    | Keynote                         | Karen                           |       |
-| 2     | 3    | Open Discussion                 | Peter                           |       |
-| 3     | 5    | Group writing on position paper | Nic                             |       |
+| 9:30  | 12:15   | Paper presentations          |                                 |       |
+| 12:15    | 1:30    | Lunch (around Illini Union)|                                 |       |
+| 1:30     | 2:30    | Keynote & Discussion       | Karen                           |       |
+| 2:30     | 3:30    | Open Discussion            | Peter                           |       |
+| 3:30     | 5    | Group writing on position paper | Nic                             |       |
 
 
 Papers and slides will be updated during the workshop. 
 
 | Start | End   | Paper Title                                                                                                       | Authors        | Discussant | Paper | Slides | Notes |
 |-------|-------|-------------------------------------------------------------------------------------------------------------------|----------------|------------|-------|--------|-------|
-| 9:30  | 9:50  | Reconstituting a Digital Repository through Use Case Drive Ontology Development                                   | Shephard et al | Thomer     |       |        |       |
-| 9:50  | 10:10 | Matryoska Modeling: Building One Conceptual Model within Another                                                  | Gryk           | Fenlon     |       |        |       |
-| 10:10 | 10:30 | Practical and meta challenges in modeling database migrations: A case study of the MBGNA                          | Thomer et al   | Weber      |       |        |       |
+| 9:30  | 10  | Reconstituting a Digital Repository through Use Case Drive Ontology Development                                   | Shephard et al | Thomer     |       |        |       |
+| 10  | 10:30 | Matryoska Modeling: Building One Conceptual Model within Another                                                  | Gryk           | Fenlon     |       |        |       |
 | 10:30 | 10:45 | Break                                                                                                             |                |            |       |        |       |
-| 10:45 | 11:05 | When Conceptual Models Collide: Aggregates in IFLA's Library Reference Model                                      | Jett & Dubin   | Fenlon     |       |        |       |
-| 11:05 | 11:25 | How to organize and reveal knowledge of cultural heritage digital resources? -- A case study of Dunhuang Grottoes | Wang et al     | Peter      |       |        |       |
+| 10:45 | 11:15 | Practical and meta challenges in modeling database migrations: A case study of the MBGNA                          | Thomer et al   | Weber      |       |        |       |
+| 11:15 | 11:45 | When Conceptual Models Collide: Aggregates in IFLA's Library Reference Model                                      | Jett & Dubin   | Fenlon     |       |        |       |
+| 11:45 | 12:15 | How to organize and reveal knowledge of cultural heritage digital resources? -- A case study of Dunhuang Grottoes | Wang et al     | Peter      |       |        |       |
