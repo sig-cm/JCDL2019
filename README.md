@@ -26,7 +26,7 @@ Papers and slides will be updated during the workshop.
 
 | Start | End   | Paper Title                                                                                                       | Authors        | Discussant | Paper | Slides | Notes |
 |-------|-------|-------------------------------------------------------------------------------------------------------------------|----------------|------------|-------|--------|-------|
-| 9:30  | 10  | Reconstituting a Digital Repository through Use Case Drive Ontology Development                                   | Shepherd et al | Thomer     |       |        |       |
+| 9:30  | 10  | Reconstituting a Digital Repository through Use Case Driven Ontology Development                                   | Shepherd et al | Thomer     |       |        |       |
 | 10  | 10:30 | Matryoshka Modeling: Building One Conceptual Model within Another                                                  | Gryk           | Fenlon     |       |        |       |
 | 10:30 | 10:45 | Break                                                                                                             |                |            |       |        |       |
 | 10:45 | 11:15 | Practical and meta challenges in modeling database migrations: A case study of the MBGNA                          | Thomer et al   | Weber      |       |        |       |
