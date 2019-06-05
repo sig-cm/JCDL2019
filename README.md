@@ -26,9 +26,9 @@ Papers and slides will be updated during the workshop.
 
 | Start | End   | Paper Title                                                                                                       | Authors        | Discussant | Paper | Slides | Notes |
 |-------|-------|-------------------------------------------------------------------------------------------------------------------|----------------|------------|-------|--------|-------|
-| 9:30  | 10  | Reconstituting a Digital Repository through Use Case Driven Ontology Development                                   | Shepherd et al | Thomer     |       |        |       |
-| 10  | 10:30 | Matryoshka Modeling: Building One Conceptual Model within Another                                                  | Gryk           | Fenlon     |       |        |       |
+| 9:30  | 10  | [Reconstituting a Digital Repository through Use Case Driven Ontology Development](https://github.com/sig-cm/JCDL2019/blob/master/shepherd_sigcm_final.pdf)                                   | Shepherd et al | Thomer     |       |        |       |
+| 10  | 10:30 | [Matryoshka Modeling: Building One Conceptual Model within Another](https://github.com/sig-cm/JCDL2019/blob/master/gryk_sigcm_19_final.pdf)                                                  | Gryk           | Fenlon     |       |        |       |
 | 10:30 | 10:45 | Break                                                                                                             |                |            |       |        |       |
-| 10:45 | 11:15 | Practical and meta challenges in modeling database migrations: A case study of the MBGNA                          | Thomer et al   | Weber      |       |        |       |
-| 11:15 | 11:45 | When Conceptual Models Collide: Aggregates in IFLA's Library Reference Model                                      | Jett & Dubin   | Fenlon     |       |        |       |
-| 11:45 | 12:15 | How to organize and reveal knowledge of cultural heritage digital resources? -- A case study of Dunhuang Grottoes | Wang et al     | Peter      |       |        |       |
+| 10:45 | 11:15 | [Practical and meta challenges in modeling database migrations: A case study of the MBGNA](https://github.com/sig-cm/JCDL2019/blob/master/thomer_sigcm_19.pdf)                          | Thomer et al   | Weber      |       |        |       |
+| 11:15 | 11:45 | [When Conceptual Models Collide: Aggregates in IFLA's Library Reference Model](https://github.com/sig-cm/JCDL2019/blob/master/jett-dubin_sigcm_final.pdf)                                      | Jett & Dubin   | Fenlon     |       |        |       |
+| 11:45 | 12:15 | [How to organize and reveal knowledge of cultural heritage digital resources? -- A case study of Dunhuang Grottoes](https://github.com/sig-cm/JCDL2019/blob/master/wuahn_sigcm_19.pdf) | Wang et al     | Peter      |       |        |       |
